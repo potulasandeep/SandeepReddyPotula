@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sandeep Reddy Potula
 
 🎓 Master’s in Data Science @ San Jose State University  
-💼 Ex-Associate Software Engineer @ PwC India | Data Analytics Intern @ KickstartX  
+💼 Ex-Software Engineer @ PwC India | Data Analytics Intern @ KickstartX  
 📊 I love turning raw data into actionable insights using AI & Analytics
 
 ## 🚀 About Me
